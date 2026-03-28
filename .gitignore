@@ -1,0 +1,6 @@
+/target
+.worktrees/
+session
+.idea
+/docs/superpowers/
+/docs/plans/

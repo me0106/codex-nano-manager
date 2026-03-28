@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ggboom",
+    "display_name": "GGBoom",
+    "base_url": "https://ai.qaq.al",
+    "notes": "GGBoom OpenAI-compatible endpoint"
+  },
+  {
+    "id": "quickly",
+    "display_name": "Quickly",
+    "base_url": "https://sub.jlypx.de",
+    "notes": "Quickly OpenAI-compatible endpoint"
+  },
+  {
+    "id": "ice",
+    "display_name": "ICE",
+    "base_url": "https://ice.v.ua",
+    "notes": "ICE OpenAI-compatible endpoint"
+  }
+]
